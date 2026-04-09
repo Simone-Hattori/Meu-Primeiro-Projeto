@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "Iniciando testes..."
-sleep 2
-echo "Todos os testes passaram!"
-
