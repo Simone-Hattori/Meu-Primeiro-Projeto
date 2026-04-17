@@ -1,2 +1,6 @@
 Esse é um arquivo de teste: 3 
+<<<<<<< HEAD
 - Alteração 1 - 17/4
+=======
+- ALT 1 - 17/4
+>>>>>>> 1a-branch
