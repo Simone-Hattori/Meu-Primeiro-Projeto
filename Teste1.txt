@@ -2,10 +2,7 @@ Esse é um arquivo de teste: 1
 - Alteração 1
 - Alteração 2
 - Alteração 3 : 17/4
-<<<<<<< HEAD
 - Alteração 4 : 17/4
-=======
->>>>>>> 54a4b4e2d0f820f8c5dce76df80b8ed4aa3a6912
 
 
 
