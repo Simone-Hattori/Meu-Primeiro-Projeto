@@ -3,5 +3,4 @@ Esse é um arquivo de teste: 1
 - ALT 2 - 17/4
 -- ALT 3 - 17/4
 -- ALT 4 - 17/4
--- ALT 5 - 20/4
--- ALT 6 - 20/4 - tarde
+-- ALT 5 - 20/4 - deletei linha
